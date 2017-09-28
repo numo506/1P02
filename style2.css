@@ -1,0 +1,16 @@
+#firstheader
+ {color:red;font-weight: bold}
+
+ .GreenText{color:green;font-style: italic;}
+
+ body{
+   background-color:red;
+ }
+
+ ul{
+   color:green;font-style: italic;
+ }
+
+li{
+  font-size:30px;display: inline;
+}
